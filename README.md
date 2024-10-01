@@ -1,7 +1,7 @@
 # ED
-*Negritas*
+**Negritas**
 
-_italica_
+__italica__
 ```C++
 #include <iostream>
 #include <vector>
