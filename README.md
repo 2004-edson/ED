@@ -27,3 +27,4 @@ int main()
 	imprime(v);
 }
 ```
+¡[imagen](https://es.m.wikipedia.org/wiki/Archivo:Twenty_One_Pilots_Vector_Logo.svg)
